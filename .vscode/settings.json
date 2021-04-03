@@ -1,0 +1,10 @@
+{
+  "gitlens.advanced.abbreviateShaOnCopy": true,
+  "gitlens.advanced.commitOrdering": "author-date",
+  "gitlens.advanced.fileHistoryFollowsRenames": true,
+  "gitlens.advanced.fileHistoryShowAllBranches": true,
+  "gitlens.advanced.blame.customArguments": [],
+  "gitlens.currentLine.enabled": true,
+  "gitlens.hovers.currentLine.over": "line",
+  "gitlens.currentLine.format": "${author, }${agoOrDate}${' via 'pullRequest}${ • message|50?}"
+}
